@@ -5,7 +5,7 @@
 <div class="content">
 	<h1>Ruby Hill Walking Social</h1>
 	<div>
-		Come out and get to know your neighbor's at the Ruby Hill Walking Social.
+		Come out and get to know your neighbors & build community at the Ruby Hill Walking Social.
 	</div>
 	<div>
 		Meets every Saturday at 9:00 AM; rain, snow, or shine.
