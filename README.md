@@ -36,3 +36,13 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Site Branding
+This site aims to use a color palette (for now) of the following:
+
+1) #9b111e -- Carmine
+1) #f3f3f3 -- White Smoke
+1) #9f8170 -- Beaver
+1) #065143 -- Brunswick Green
+1) #2A3D45 -- Charcoal
+
